@@ -1,13 +1,13 @@
-# 📰 Fake News Detection System
+#  Fake News Detection System
 
-## 📌 Project Overview
+##  Project Overview
 
 The Fake News Detection System is a Machine Learning-based web application that classifies news headlines as **Real** or **Fake**.
 It uses Natural Language Processing (NLP) techniques and a trained model to analyze textual patterns in news data.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to:
 
@@ -17,7 +17,7 @@ The main objective of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Scikit-learn
@@ -27,7 +27,7 @@ The main objective of this project is to:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Fake-News-Detector/
@@ -43,7 +43,7 @@ Fake-News-Detector/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Dataset is loaded and preprocessed
 2. Text cleaning is applied (lowercase, remove symbols)
@@ -54,7 +54,7 @@ Fake-News-Detector/
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone Repository / Download Files
 
@@ -83,21 +83,21 @@ streamlit run app.py
 
 ---
 
-## 🧪 Example Inputs
+##  Example Inputs
 
-### ❌ Fake News
+###  Fake News
 
 * "Aliens landed in India yesterday"
 * "Magic pill cures all diseases instantly"
 
-### ✅ Real News
+### Real News
 
 * "Government announces new policy"
 * "Stock market reaches new high"
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
 * Real-time news classification
 * Simple and interactive UI
@@ -107,7 +107,7 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 
 * Dataset imbalance (more real news than fake)
 * Model bias towards majority class
@@ -115,7 +115,7 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Use Deep Learning models (LSTM, BERT)
 * Analyze full news articles instead of headlines
@@ -124,7 +124,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ashish Ranjan**
 B.Tech CSE Student
